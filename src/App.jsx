@@ -109,6 +109,9 @@ export default function App() {
   ];
 
   const skills = [
+    { name: 'Développeur Fullstack (Java & Django)', percent: 90 },
+    { name: 'Front-end (HTML, CSS, JS)', percent: 95 },
+    { name: 'Vibecodeur', percent: 100 },
     { name: 'Data Analysis', percent: 90 },
     { name: 'Intelligence Artificielle', percent: 85 },
     { name: 'Informatique de Gestion', percent: 95 },
